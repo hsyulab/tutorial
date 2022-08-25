@@ -1,3 +1,5 @@
 every one can learn git
 Add changes to sample.txt
 Commit log file
+Pull data from remote
+
